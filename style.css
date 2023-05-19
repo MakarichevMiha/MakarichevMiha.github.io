@@ -1,26 +1,11 @@
 .textcols {
-	display: table;
-	width: 100%;
-	border-collapse: collapse;
-}
-.textcols-row {
-	 display: table-row;
-}
-.textcols-item {
-	display: table-cell;	
-	width: 33%;
-	vertical-align: top;
-	padding: 0;
+	column-width: 33%;
+	column-count: 3;
+	column-gap: 4%;
 	background: #fff2e1;
-	border-right: 30px solid #fff;
-	border-left: 30px solid #fff;
 }
-.textcols-row .textcols-item:first-child {
-	border-left: none;
+ 
+.textcols p {
+	padding: 0;
+	margin: 0 0 15px 0;
 }
-.textcols-row .textcols-item:last-child {
-	border-right: none;
-}
-
-
-
