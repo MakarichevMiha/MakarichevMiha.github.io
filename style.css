@@ -1,1 +1,23 @@
          style="width: 200px; padding: 10px 30px; box-sizing: border-box;
+
+.textcols {
+	white-space: nowrap;
+	font-size: 0;
+}
+.textcols-item {
+	white-space: normal;	
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	background: #fff2e1;
+	margin-right: 5%;
+	font-size: 14px;
+}
+.textcols .textcols-item:last-child {
+	margin-right: 0 ;
+}
+
+
+
+
+
