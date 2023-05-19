@@ -1,23 +1,26 @@
-
-
 .textcols {
-	white-space: nowrap;
-	font-size: 0;
+	display: table;
+	width: 100%;
+	border-collapse: collapse;
+}
+.textcols-row {
+	 display: table-row;
 }
 .textcols-item {
-	white-space: normal;	
-	display: inline-block;
-	width: 30%;
+	display: table-cell;	
+	width: 33%;
 	vertical-align: top;
+	padding: 0;
 	background: #fff2e1;
-	margin-right: 5%;
-	font-size: 14px;
+	border-right: 30px solid #fff;
+	border-left: 30px solid #fff;
 }
-.textcols .textcols-item:last-child {
-	margin-right: 0 ;
+.textcols-row .textcols-item:first-child {
+	border-left: none;
 }
-
-
+.textcols-row .textcols-item:last-child {
+	border-right: none;
+}
 
 
 
