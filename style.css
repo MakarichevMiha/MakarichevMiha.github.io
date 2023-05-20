@@ -6,7 +6,7 @@
 }
 
 .textcols-item {
-	background: #8e59ad;
+	background: white;
 	border-radius: 20px;
 	padding: 20px;
 	box-shadow: 2px 2px 12px 1px rgba(161, 122, 234, 0.2);
@@ -27,7 +27,12 @@ dt {
   padding: 15px 20px;
   color: white;
   background-color: #333333
+	  h1 {
+color: white;		  
 }
+	h2{
+color: white;	
+	}
 body {
   padding: 0 30px;
   font-size: 16px;
