@@ -6,13 +6,26 @@
 }
 
 .textcols-item {
-	background: #fff2e1;
+	background: #8e59ad;
 	border-radius: 20px;
 	padding: 20px;
-	box-shadow: 2px 2px 12px 1px rgba(255, 0, 0, 0.2);
+	box-shadow: 2px 2px 12px 1px rgba(161, 122, 234, 0.2);
 }
  
 .textcols p {
 	padding: 0;
 	margin: 0 0 15px 0;
+}
+dd {
+
+  
+  padding: 15px 20px;
+  color: white;
+  background-color: #333333;
+}
+dt {
+  
+  padding: 15px 20px;
+  color: white;
+  background-color: #333333;
 }
