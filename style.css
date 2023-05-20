@@ -27,5 +27,14 @@ dt {
   
   padding: 15px 20px;
   color: white;
+	body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+/* Задайте свойство ниже */
+  background: #ffffff url(https://i.pinimg.com/originals/dc/aa/3c/dcaa3cc8f7ff0b0b808db191154c8fbc.jpg) no-repeat top center;
+
   background-color: #333333;
 }
