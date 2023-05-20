@@ -1,8 +1,7 @@
 .textcols {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	gap: 20px;
-	
+	gap: 20px;	
 }
 
 .textcols-item {
@@ -18,16 +17,10 @@
 	color: black;
 }
 dd {
-
-  
-  padding: 15px 20px;
   color: white;
-  background-color: #333333;
 }
 dt {
-  padding: 15px 20px;
   color: white;
-  background-color: #333333
 }
 h1 {
 color: white;		  
@@ -40,7 +33,6 @@ body {
   font-size: 16px;
   line-height: 26px;
   font-family: "Arial", sans-serif;
-  
   background: #ffffff url("https://i.pinimg.com/originals/dc/aa/3c/dcaa3cc8f7ff0b0b808db191154c8fbc.jpg") no-repeat top center;
 }
 
