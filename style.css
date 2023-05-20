@@ -27,10 +27,11 @@ dt {
   padding: 15px 20px;
   color: white;
   background-color: #333333
-	  h1 {
+}
+h1 {
 color: white;		  
 }
-	h2{
+	h2 {
 color: white;	
 	}
 body {
@@ -41,3 +42,11 @@ body {
   color: #222222;
   background: #ffffff url("https://i.pinimg.com/originals/dc/aa/3c/dcaa3cc8f7ff0b0b808db191154c8fbc.jpg") no-repeat top center;
 }
+
+
+
+
+
+
+
+
