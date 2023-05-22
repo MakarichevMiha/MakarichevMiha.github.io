@@ -42,10 +42,15 @@ footer {
         background: #666;
         color: white;
 }
-.partnership {
-  color: black;
+partnership {
+  margin: 30px 0;
+  padding: 30px;
+
+  text-align: center;
+  color: #ffffff;
   background-color: #4a87fa;
-  background-image: url("https://gas-kvas.com/uploads/posts/2023-01/1673365631_gas-kvas-com-p-shchupaltsa-risunki-anime-1.jpg");
+
+  background-image: url("img/bg-partnership.svg");
 }
 
 
