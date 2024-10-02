@@ -76,7 +76,29 @@ partnership {
   margin: 5px;
   margin-top: 30px;
   padding: 5px;
-} 
+}
+.btn2 {
+  display: inline-block; /* Строчно-блочный элемент */
+  background: #FF7F50; /* Серый цвет фона */
+  color: #fff; /* Белый цвет текста */
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+  margin: 5px;
+  padding: 5px;
+}
+
+.btn3 {
+  display: inline-block; /* Строчно-блочный элемент */
+  background: #FF7F50; /* Серый цвет фона */
+  color: #fff; /* Белый цвет текста */
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+  margin: 5px;
+  margin-top: 30px;
+  padding: 5px;
+}  
 
 
 
