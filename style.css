@@ -23,33 +23,7 @@
   font-weight: Bold;
   font-size:21px;
 }
-.spa {
-  display: inline-block;
-  display: block;
-  margin: auto;
-  padding: 1rem 1.5rem; /* Поля вокруг текста */
-  text-decoration: none; /* Убираем подчёркивание */
-  border-radius: 3px; /* Скругляем уголки */
-}
-*, *:after {box-sizing: border-box;}
-.shadow-border {
-  width: 400px;
-  margin: 50px auto 0;
-  position: relative;
-}
 
-.shadow-border img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  position: relative;
-  z-index: 2;
-  box-shadow: 4px 4px 20px 0 rgba(0,0,0,.25)
-}
-
-}
-LI{
-  font-size:17px;
 dt {
   color: blak;
 padding:  10px;	
