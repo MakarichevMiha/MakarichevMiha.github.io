@@ -23,20 +23,49 @@
   font-weight: Bold;
   font-size:21px;
 }
+.spa {
+  display: inline-block;
+  display: block;
+  margin: auto;
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+}
+*, *:after {box-sizing: border-box;}
+.shadow-border {
+  width: 400px;
+  margin: 50px auto 0;
+  position: relative;
+}
 
+.shadow-border img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+  z-index: 2;
+  box-shadow: 4px 4px 20px 0 rgba(0,0,0,.25)
+}
+.kart{
+  color: white;
+}
+LI{
+  font-size:17px;
+}
 dt {
   color: blak;
-padding:  10px;	
+  padding:  10px;
+	font-size:17px;
 }
 h1 {
 color: white;		  
 }
-h2 {
+	h2 {
 color: white;	
-}
-h3 {
+	}
+  h3 {
     margin: 5px;
-}
+  }
 body {
   padding: 0 30px;
   font-size: 16px;
@@ -49,9 +78,9 @@ a {
 }
 
 footer {
-        padding: 10px 20px;
-        background: #666;
-        color: white;
+  padding: 10px 20px;
+  background: #666;
+  color: white;
 }
 partnership {
   margin: 30px 0;
@@ -93,7 +122,6 @@ partnership {
   margin: 5px;
   padding: 5px;
 }
-
 .btn3 {
   display: inline-block; /* Строчно-блочный элемент */
   background: #FF7F50; /* Серый цвет фона */
@@ -104,6 +132,12 @@ partnership {
   margin: 5px;
   padding: 5px;
 }  
+
+  
+
+
+
+  
 
 
 
